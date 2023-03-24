@@ -1,0 +1,11 @@
+KJAYS NITRO GEN
+
+
+
+The nitro gen doesnt 100% work all the time but give it like 3-5 mins and itll most likely have a nitro code to redeem.
+
+
+U need to have a server and a webhook in order for it to work so once u open the file create a server and go to intergations go to webhook and press create new and name it
+whatever u want and then copy the webhook and paste it.
+
+Next press run and itll auto start sending nitro redeem codes in your server most will say not valid and some will work. Your Welcome!
